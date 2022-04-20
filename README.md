@@ -4,12 +4,12 @@
 ### Table of Contents
 1. [Project Overview](#overview)
 2. [List of Dependencies](#dependency)
-10. [Instructions to use the repository](#instructions)
-11. [File Descriptions](#desc)
-12. [Results](#results)
-13. [Conclusion](#conc)
-14. [Tips to improve the performance](#improve)
-15. [Licensing, Authors, and Acknowledgements](#licensing)
+3. [Instructions to use the repository](#instructions)
+4. [File Descriptions](#desc)
+5. [Results](#results)
+6. [Conclusion](#conc)
+7. [Tips to improve the performance](#improve)
+8. [Licensing, Authors, and Acknowledgements](#licensing)
 
 
 ## Project Overview<a name="overview"></a>
@@ -60,15 +60,8 @@ The most interesting thing to note is the power of transfer learning to achieve 
 3. Handling a mix of humans and dogs in the image.
 
 
-
-
-
-
-
-
-
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Must give credit to Udacity for the data and python 3 notebook.
+Credit to Udacity for the data and python 3 notebook.
 
 
 
